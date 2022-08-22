@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarkLaczko
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning C#, JS, HTML, CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
